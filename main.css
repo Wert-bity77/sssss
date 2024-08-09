@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+}
+.azim {
+    border: 5px solid yellow;
+    text-align: center;
+    
+}
+.QORI {
+    border: 5px solid yellow;
+}
+th {
+    border: 3px solid gold;
+}
+.qori {
+    border: 3px solid gold;
+    color: white;
+    width: 503px;
+}
+.wed {
+    text-align: center;
+    border: 5px solid yellow;
+
+}
+.sobir {
+    text-align: center;
+}
+.olim {
+    text-align: center;
+    width: 350px;
+}
+.loka {
+    text-align: center;
+    border: 3px solid gold;
+    width: 550px;
+    color: white;
+}
+.ui {
+    text-align: center;
+    border: 3px solid gold;
+    width: 551px;
+    color: white;
+}
+.a {
+    text-align: center;
+    border: 3px solid gold;
+    color: white;
+    width: 250px;
+}
+.w {
+    color: white;
+    border: 3px solid gold;
+    text-align: center;
+    width: 300px;
+}
+.o {
+    background-color: white;
+    width: 1700px;
+    height: 60px;
+    border-radius: 20px;
+}
+.r {
+    background-color: yellow;
+    text-align: center;
+}
+.rt {
+    text-align: center;
+}
+
+    
+.im1 {
+    border: 2px solid yellow;
+}
+.im45{
+    border: 2px solid yellow;
+}
